@@ -2,6 +2,9 @@
 
 This project is a Spark application for analyzing big data using Apache Spark. It performs language analysis and complexity metrics on web pages in the WARC format.
 
+## Academic Context
+
+Originating as a school project, this application was designed, developed, and tested on the university's Hadoop-powered servers. This setup ensured robust and efficient analysis of expansive WARC datasets, tapping into the power of distributed data processing.
 
 ## Prerequisites
 
